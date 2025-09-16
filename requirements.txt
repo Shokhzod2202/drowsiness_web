@@ -1,8 +1,7 @@
 streamlit
 streamlit-webrtc
 opencv-python-headless
-dlib
 imutils
 scipy
-pyttsx3
 numpy
+dlib-bin     # optional; try this instead of dlib
