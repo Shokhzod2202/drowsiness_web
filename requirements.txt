@@ -1,0 +1,8 @@
+streamlit
+streamlit-webrtc
+opencv-python-headless
+dlib
+imutils
+scipy
+pyttsx3
+numpy
